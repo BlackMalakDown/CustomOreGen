@@ -4,7 +4,7 @@ description: Controls the Ore-Generator
 author: Linus122
 softdepend: [PlaceholderAPI, ASkyBlock, AcidIsland, uSkyBlock, SkyBlock, BentoBox, IslandWorld, SuperiorSkyblock2]
 main: xyz.spaceio.customoregen.CustomOreGen
-api-version: 1.13
+api-version: 1.14.2
 commands:
    customoregen:
      description: reloads the plugin
